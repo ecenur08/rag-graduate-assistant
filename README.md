@@ -64,3 +64,8 @@ pip install chromadb anthropic pdfplumber
 
 Bu proje bir **Doğal Dil İşleme (NLP)** kursu kapsamında geliştirilmiştir.  
 This project was developed as part of a **Natural Language Processing (NLP)** course.
+
+## 🖥️ Arayüz / Interface
+
+![Arayüz 1](Ekran görüntüsü 2026-05-09 150048.png)
+![Arayüz 2](Ekran görüntüsü 2026-05-09 150124.png)
